@@ -1,0 +1,16 @@
+[
+  {
+    "school": "Yeshwantrao Chavan College of Engineering",
+    "degree": "B.Tech in Information Technology",
+    "start": "2020",
+    "end": "2024",
+    "location": "Nagpur, Maharahstra, India"
+  },
+  {
+    "school": "Late Narayanrao Pawar Jr. College",
+    "degree": "Secondary High School",
+    "start": "2018",
+    "end": "2020",
+    "location": "Aurangabad, Maharahstra, India"
+  }
+] 

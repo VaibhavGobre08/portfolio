@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom base styles (optional) */
+:root {
+  color-scheme: light dark;
+  --bg-grid: radial-gradient(circle at 1px 1px, rgb(255 255 255 / 5%) 1px, transparent 0);
+  --accent-from: #7c3aed; /* violet-600 */
+  --accent-to: #06b6d4;   /* cyan-500 */
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Space Grotesk', ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji';
+  @apply bg-neutral-950 text-neutral-100 antialiased;
+  background-image: var(--bg-grid), linear-gradient(to bottom, rgb(0 0 0 / 0.6), rgb(0 0 0 / 0.6));
+  background-size: 16px 16px, 100% 100%;
+}
+
+.glass {
+  @apply bg-white/5 dark:bg-white/5 backdrop-blur-md border border-white/10 rounded-xl;
+}
+
+.section {
+  @apply max-w-6xl mx-auto px-4 py-16;
+}
+
+.section-title {
+  @apply text-2xl md:text-3xl font-semibold;
+  background: linear-gradient(90deg, var(--accent-from), var(--accent-to));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.btn-accent {
+  background: linear-gradient(90deg, var(--accent-from), var(--accent-to));
+  color: #0b0b0b;
+}
+.btn-outline {
+  @apply border border-white/20;
+}
+
+@keyframes floaty {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+  100% { transform: translateY(0px); }
+}
+
+.animate-floaty {
+  animation: floaty 6s ease-in-out infinite;
+}
+
+/* Elevate cards on hover */
+#skills .glass,
+#projects .glass,
+#education .glass,
+#certifications .glass,
+#experience .glass {
+  @apply transition-transform duration-300 ease-out;
+}
+#skills .glass:hover,
+#projects .glass:hover,
+#education .glass:hover,
+#certifications .glass:hover,
+#experience .glass:hover {
+  @apply -translate-y-1 shadow-xl ring-1 ring-white/10;
+  box-shadow: 0 12px 30px -10px rgba(0,0,0,0.45);
+}

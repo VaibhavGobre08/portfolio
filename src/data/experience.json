@@ -1,0 +1,30 @@
+[
+  {
+    "company": "Accenture",
+    "role": "Application Developer",
+    "start": "2024-08",
+    "end": "Present",
+    "location": "Pune",
+    "summary": "Specializing in SAP Hybris and Java for global e-commerce solutions.",
+    "highlights": [
+      "Specialized in SAP Hybris Commerce and Java, contributing to the development and maintenance of a large-scale global e-commerce platform supporting 45+countries.",
+      "Managing incident resolution and root cause analysis to ensure high availability, stability, and seamless customer experience across international markets."
+    ],
+    "tech": ["Java", "SpringBoot", "SAP Hybris Commerce", "ServiceNow", "Jira", "Conigma", "Kibana", "BitBucket",
+"Jenkins"]
+  },
+  {
+    "company": "Caredose Health Tech Pvt Ltd",
+    "role": "SDE Intern",
+    "start": "2024-01",
+    "end": "2024-06",
+    "location": "Nagpur",
+    "summary": "Built Flask microservices and APIs to optimize healthcare workflows.",
+    "highlights": [
+      "Designed and deployed Flask-based microservices for centralized medicine management, enabling seamless data exchange across legacy and modern APIs.",
+      "Created robust REST APIs for HIMS and pharmacy operations accelerated reporting and automated key workflows, reducing processing times by 30%.",
+      "Implemented secure authentication protocols JWT, modernized front-end modules using React, and streamlined state management zustand, tailwind CSS." 
+    ],
+    "tech": ["Python", "Flask", "React", "Bootstrap" , "Postgress"]
+  }
+] 

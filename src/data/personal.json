@@ -1,0 +1,17 @@
+{
+  "name": "Vaibhav Gobre",
+  "current_company" : "Accenture",
+  "role": "Application Developer",
+  "summary": "I build reliable, scalable web apps.",
+  "address": "Pune, India",
+  "phone": "+91 9850669912",
+  "email": "vaibhavgobre008@gmail.com",
+  "gender": "Male",
+  "avatar": "/avatar.jpeg",
+  "links": {
+    "github": "https://github.com/VaibhavGobre08",
+    "linkedin": "https://www.linkedin.com/in/vaibhav-gobre",
+    "twitter": "https://twitter.com/",
+    "reddit": "https://www.reddit.com/"
+  }
+} 

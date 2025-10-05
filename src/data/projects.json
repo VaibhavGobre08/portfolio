@@ -1,0 +1,52 @@
+[
+  {
+    "id": "portfolio",
+    "title": "Personal Portfolio",
+    "purpose":"Portfolio",
+    "description": "Responsive portfolio built with React, Vite, TypeScript, and Tailwind CSS.",
+    "tags": ["React", "TypeScript", "Tailwind"],
+    "links": {
+      "github": "https://github.com/yourname/portfolio"
+    }
+  },
+  {
+    "id": "object_detection",
+    "title": "Senior Citizen Object Detection System Using YOLOv8",
+    "purpose":"College Project",
+    "description": "Developed a smart walking stick leveraging the YOLOv8 object detection model",
+    "tags": ["Python", "YOLOv8 (Ultralytics)" , "OpenCV", "real-time computer vision"],
+    "links": {
+      "github": "https://github.com/"
+    }
+  },
+  {
+    "id": "heart_disease",
+    "title": "Heart Disease Prediction with Severity Levels",
+    "purpose":"College Project",
+    "description": "Led the development of an AI-powered heart disease prediction system, classifying severity levels using neural networks, K-means clustering, and gradient descent.",
+    "tags": ["Machine Learning", "Neural Networks","K-Means Clustering","Prompt Engineering Gradient Descent", "Data Filtering", "Python", "Django"],
+    "links": {
+      "github": "https://github.com/"
+    }
+  },
+  {
+    "id": "smart_loan_application_platform",
+    "title": "Smart Loan Application Platform",
+    "purpose":"Personal Project",
+    "description": "Engineered a scalable loan application system using a microservices architecture, featuring two dedicated services: The User Service allows customers to apply for loans, seamlessly transmitting applications to the Employee Service via RabbitMQ for reliable, asynchronous processing",
+    "tags": ["Java", "Spring Boot", "Spring Security", "JWT", "RabbitMQ", "Microservices architecture"],
+    "links": {
+      "github": "https://github.com/Abhishek-5455/Code-Narrator"
+    }
+  },
+  {
+    "id": "news-app",
+    "title": "Personalized News Aggregator App",
+    "purpose":"Personal Project",
+    "description": "Built a Personalized News Aggregator application with Angular frontend and Spring Boot backend, delivering real-time news from multiple APIs with an intuitive user interface.",
+    "tags": ["Angular", "TypeScript", "HTML", "CSS", "Spring Boot", "Java"],
+    "links": {
+      "github": "https://github.com/"
+    }
+  }
+] 
