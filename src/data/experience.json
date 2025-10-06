@@ -25,6 +25,6 @@
       "Created robust REST APIs for HIMS and pharmacy operations accelerated reporting and automated key workflows, reducing processing times by 30%.",
       "Implemented secure authentication protocols JWT, modernized front-end modules using React, and streamlined state management zustand, tailwind CSS." 
     ],
-    "tech": ["Python", "Flask", "React", "Bootstrap" , "Postgress"]
+    "tech": ["Python", "Flask", "React", "Bootstrap" , "Postgress","SQLAlchemy", "JWT", "zustand", "tailwind css", "MySql", "PostgreSQL", "Agile methodology", "BitBucket", "Trello", "Cliq"]
   }
 ] 

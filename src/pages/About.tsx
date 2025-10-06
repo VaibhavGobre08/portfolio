@@ -33,12 +33,11 @@ export default function About() {
           {/* About Content */}
           <div className="space-y-4">
             <p className="text-neutral-300 leading-relaxed text-justify">
-            Versatile software engineer with 1.5+ years of experience in backend development, 
-            microservices architecture, and full-stack integration. Skilled in Java, Spring Boot, 
-            Python, Flask, and SAP Hybris Commerce, with a proven ability to build and scale robust 
-            APIs and enterprise-grade solutions. Experienced in deploying high-performance microservices, 
-            integrating AI/ML models into real-time systems, and driving platform stability across e-commerce 
-            and healthcare domains through effective collaboration and technical excellence.
+            Dynamic software engineer with 1.5+ years of expertise in backend systems, microservices, and end-to-end solution 
+            delivery. Proficient in Java, Spring Boot, Python, Flask, and SAP Hybris Commerce, with a strong record of 
+            architecting resilient APIs, deploying scalable microservices, and seamlessly integrating AI/ML models into live 
+            environments. Adept at elevating platform performance in e-commerce and healthcare sectors through innovative 
+            problem-solving and cross-functional collaboration.
             </p>
             
             {/* Key Highlights */}

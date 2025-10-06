@@ -49,7 +49,7 @@ export default function Education() {
                 {e.degree.includes('B.Tech') ? 'Bachelor\'s Degree' : 'High School'}
               </span>
               <span className="text-xs px-3 py-1 rounded-full bg-gradient-to-r from-green-100 to-teal-100 dark:from-green-800 dark:to-teal-800 text-green-700 dark:text-green-200 font-medium border border-green-200 dark:border-green-600">
-                {e.degree.includes('Computer') ? 'Computer Science' : 'General Education'}
+                {e.degree.includes('Information') ? 'Computer Science' : 'General Education'}
               </span>
             </div>
           </motion.div>

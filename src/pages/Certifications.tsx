@@ -63,7 +63,7 @@ export default function Certifications() {
               </h4>
               <div className="flex flex-wrap gap-2 mb-3">
                 <span className="text-xs px-3 py-1 rounded-full bg-gradient-to-r from-purple-100 to-pink-100 dark:from-purple-800 dark:to-pink-800 text-purple-700 dark:text-purple-200 font-medium border border-purple-200 dark:border-purple-600">
-                  {c.title.includes('AWS') ? 'Cloud Computing' : 'Web Development'}
+                  {c.title.includes('AWS') ? 'System Design' : 'System Design'}
                 </span>
                 <span className="text-xs px-3 py-1 rounded-full bg-gradient-to-r from-blue-100 to-cyan-100 dark:from-blue-800 dark:to-cyan-800 text-blue-700 dark:text-blue-200 font-medium border border-blue-200 dark:border-blue-600">
                   Professional
