@@ -10,6 +10,16 @@
     }
   },
   {
+    "id": "animal-tracking",
+    "title": "Animal Part Tracking Utility",
+    "purpose": "Animal trajectory",
+    "description": "Full-stack platform developed for Branson Lab client via Apprely, resolving ID mismatches in .trk files and featuring Canvas trajectory visualization with advanced correction tools.",
+    "tags": ["Next.js", "Django", "PostgreSQL", "FFmpeg", "Docker", "HTML Canvas"],
+    "links": {
+        "github": "https://github.com/VaibhavGobre08"
+    }
+},
+  {
     "id": "object_detection",
     "title": "Senior Citizen Object Detection System Using YOLOv8",
     "purpose":"College Project",
