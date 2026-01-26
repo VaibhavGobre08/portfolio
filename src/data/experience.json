@@ -1,5 +1,18 @@
 [
   {
+    "company": "Apprely Technologies",
+    "role": "Software Developer",
+    "start": "2025-12",
+    "end": "Present",
+    "location": "Pune",
+    "summary": "Full-stack development specializing in automation testing, scalable platforms, and backend optimization.",
+    "highlights": [
+      "Developed Animal Part Tracking Utility for Branson Lab client: full-stack platform with Canvas trajectory visualization, ID correction tools (swap/link/delete/break), and PostgreSQL optimization (40% faster queries).",
+        "Built automation testing frameworks for Paynov8 payment platform: end-to-end test suites, 60% improved test coverage, CI/CD pipeline integration for reliable transaction processing."
+    ],
+    "tech": ["Python", "Django", "Next.js", "Docker", "PostgreSQL", "pytest", "selenium", "shellscript", "bitbucket"]
+  },
+  {
     "company": "Accenture",
     "role": "Application Developer",
     "start": "2024-08",
