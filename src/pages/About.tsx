@@ -33,7 +33,7 @@ export default function About() {
           {/* About Content */}
           <div className="space-y-4">
             <p className="text-neutral-300 leading-relaxed text-justify">
-            Dynamic software engineer with 1.5+ years of expertise in backend systems, microservices, and end-to-end solution 
+            Dynamic software engineer with 2+ years of expertise in backend systems, microservices, and end-to-end solution 
             delivery. Proficient in Java, Spring Boot, Python, Flask, and SAP Hybris Commerce, with a strong record of 
             architecting resilient APIs, deploying scalable microservices, and seamlessly integrating AI/ML models into live 
             environments. Adept at elevating platform performance in e-commerce and healthcare sectors through innovative 
