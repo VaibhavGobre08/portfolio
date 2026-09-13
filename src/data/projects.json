@@ -10,6 +10,28 @@
     }
   },
   {
+  "id": "distributed-ecommerce",
+  "title": "OrderFlow - Distributed E-Commerce Platform",
+  "purpose": "Distributed order processing",
+  "description": "Microservices-based e-commerce platform using Saga Orchestration and event-driven architecture, managing distributed Order, Inventory, Payment, and Shipping workflows with reliable event processing and failure compensation.",
+  "tags": [
+    "Java",
+    "Spring Boot",
+    "Microservices",
+    "Apache Kafka",
+    "PostgreSQL",
+    "Saga Pattern",
+    "Docker",
+    "JUnit",
+    "Mockito",
+    "Testcontainers",
+    "GitHub Actions"
+  ],
+  "links": {
+    "github": "https://github.com/VaibhavGobre08"
+  }
+}
+  {
     "id": "animal-tracking",
     "title": "Animal Part Tracking Utility",
     "purpose": "Animal trajectory",
